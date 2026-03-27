@@ -27,3 +27,19 @@ In module 4 we were taught to communicate with certain rules which helps to prof
 Module 5:
 
 This module focuses on the critical analysis of digital threats and the implementation of security best practices to protect the personal and professional data. The task here is to create a case study for any one of the following topics: Phishing, UPI/Online payments fraud, Identity Theft, Cyberbullying, ransomware, and a prevention checklist. Focus: Digital security and risk mitigation.
+
+
+links:
+
+Infograph link: https://prezi.com/view/SWWVdIpuYVFaG8jtUQK5/?referral_token=ze
+HfclnB3FN
+
+Google form link: 
+https://docs.google.com/forms/d/e/1FAIpQLSe6Gz_gdDoIz3MjUVyPQLkVqPWvggFMfnD
+pBi29Zagm6G5SEg/viewform?usp=dialog
+
+Github special repository link: https://github.com/dilip10590/DILIP-S.git
+
+Github profile: https://github.com/dilip10590 
+
+Linkedin profile: https://www.linkedin.com/in/dilip-s-a62195380 
